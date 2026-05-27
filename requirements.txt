@@ -1,0 +1,4 @@
+cryptography>=42.0.0
+click>=8.1.0
+secretsharing>=0.3.3
+pytest>=8.0.0

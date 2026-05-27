@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Local CSePS transaction data and test submissions
+cseps/ledger.json
+cseps/ledger.json.tmp
+cseps/bids/*_enc.json
